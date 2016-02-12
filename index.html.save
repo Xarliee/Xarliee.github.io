@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+		<title>Primera Pagina</title>
+	</head>
+	<body><h1>Primera Pagina </h1>
+	<img src="http://bit.ly/RhrMEn"/>
+		<p algo es algo</p>
+		<p>y el jamón.</p>
+		<p>Pero sobre todo, los sándwiches.</p>
+	</body>
+</html>
